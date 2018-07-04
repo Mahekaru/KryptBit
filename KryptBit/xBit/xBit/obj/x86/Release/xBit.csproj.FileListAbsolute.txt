@@ -1,0 +1,9 @@
+C:\Users\mjennings\Dropbox\xBit\xBit\bin\Release\xBit.exe
+C:\Users\mjennings\Dropbox\xBit\xBit\bin\Release\xBit.pdb
+C:\Users\mjennings\Dropbox\xBit\xBit\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\mjennings\Dropbox\xBit\xBit\obj\x86\Release\xBit.frmXBit.resources
+C:\Users\mjennings\Dropbox\xBit\xBit\obj\x86\Release\xBit.Properties.Resources.resources
+C:\Users\mjennings\Dropbox\xBit\xBit\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\mjennings\Dropbox\xBit\xBit\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\mjennings\Dropbox\xBit\xBit\obj\x86\Release\xBit.exe
+C:\Users\mjennings\Dropbox\xBit\xBit\obj\x86\Release\xBit.pdb
